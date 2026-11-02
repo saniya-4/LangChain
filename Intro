@@ -1,0 +1,19 @@
+LangChain is an open-source framework used to build applications powered by Large Language Models (LLMs).
+Why do we need LangChain in real life?
+Let's take an example.
+
+Imagine you are developing a chatbot for a college.
+
+A student asks:
+
+"What is the attendance requirement for the 5th semester?"
+
+Your chatbot needs to:
+1. Understand the student's question.
+2. Find the relevant college policy document.
+3. Extract the attendance requirement.
+4. Send the relevant information to an LLM.
+5. Generate an understandable answer.
+LangChain helps you build and connect this entire workflow.
+
+Without a framework, you would have to write and manage much of this integration yourself.
