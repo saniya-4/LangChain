@@ -13,3 +13,10 @@ What is attendance?
 AI MESSAGE
 
 Attendance refers to the record of how regularly a student attends classes.
+
+
+langchain provide us two types of models
+chat models 
+embedding models
+langchain provide us the code and we can  call the api to get the response
+instead of writting everything from scratch as this would be very expensive 
