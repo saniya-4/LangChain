@@ -1,0 +1,12 @@
+LLM has NLU+Textgen 
+main use case is chatbot
+ai agent has reasoning capability and also tools excess
+we have made a ai agent and have provided it calculator and weather api 
+now the user come and start talking with ai agent and ask it to multiply todays's temp of delhi with 3
+reasoning through chain of thought
+so the ai agen breakdown the query through chain of thought
+so it hit weather api to get the temp
+now use the calculator
+and return the output
+so basically the ai agent has reasoning capabilities +access to the tools too
+
