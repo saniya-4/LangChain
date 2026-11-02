@@ -1,0 +1,6 @@
+Indexes connect your application to external knowledge ->such as PDFS,websites or databases
+components of indexes
+doc loader
+text splitter
+vector store
+retrievers
