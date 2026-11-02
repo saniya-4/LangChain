@@ -1,0 +1,15 @@
+In langchain we generally send messages to a chat model and recieve a response
+Example conversation
+Chat Model
+
+SYSTEM MESSAGE
+
+You are a helpful college assistant. Explain everything in simple language.
+
+HUMAN MESSAGE
+
+What is attendance?
+
+AI MESSAGE
+
+Attendance refers to the record of how regularly a student attends classes.
