@@ -1,0 +1,10 @@
+chain basically make one stage input as the output of the second stage instead of us manually doing this
+chain helps to make the pipeline in langchain
+we can make many complex pipeline
+parellel chain->like input and output is detailed report which is a combination of multiple llm
+like a input provided to both llm1 and llm2 and the combine output is shown to us
+
+conditional chains->
+we are making a ai agent which is taking the feedback from the user
+if the feedback then thanks to the user
+if the feedback is poor then we are further sending the message to the team
