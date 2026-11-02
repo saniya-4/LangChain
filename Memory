@@ -1,0 +1,5 @@
+LLM api calls are stateless
+who is narendra modi we sent to the llm api 
+and then we make the next question which is how old is he then  the llm dont recall for whom the last question was
+so we use the memory so that the llm can store the old messages in order to give the further answers
+there are diff type of memories
